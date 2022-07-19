@@ -1,4 +1,4 @@
-body {
+html, body {
     margin: 0;
     padding: 0;
     background-color: #5DBDB9;
@@ -8,6 +8,16 @@ body {
 
 article::-webkit-scrollbar {
     width: 0.2em;
+}
+
+img {
+    width: 100px;
+}
+
+.testHeader {
+    height: 100px;
+    background-color: cyan;
+    
 }
 
 a {
@@ -25,11 +35,7 @@ h2 {
     color: #070808;
 }
 
-.testHeader {
-    margin: 0;
-    height: 100px;
-    background-color: cyan;
-}
+
 
 .partners {
     font-size: 4em;
