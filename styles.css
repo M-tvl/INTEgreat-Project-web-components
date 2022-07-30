@@ -1,7 +1,7 @@
 html, body {
     margin: 0;
     padding: 0;
-    background-color: #5DBDB9;
+    background-color: white;
     font-family: 'Lato', sans-serif;
 }
 
@@ -21,6 +21,8 @@ a {
 
 article {
     padding: 0 2em;
+    margin: 10px;
+    word-spacing: 4px;
 }
 
 h2 {
