@@ -58,7 +58,11 @@ h2 {
     align-items: center
 }
 .sm_icons{
-    width: 3em;
+    width: 2.5em;
+    padding-bottom: 5px;
+}
+.icons_div{
+ padding-top: 40px;
 }
 
 @media (min-width:600px) {
